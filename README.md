@@ -10,34 +10,33 @@ In this project, I analyzed Blinkit's customer and marketing data to identify be
   📊 Conducted exploratory data analysis using Seaborn/Matplotlib (histograms, heatmaps, box plots)
   
   🧠 Engineered features like:
+      Total orders, Avg. order value, Delivery delay
 
-    Total orders, Avg. order value, Delivery delay
-    
-    Feedback ratings, Registration age
+      Feedback ratings, Registration age
 
   🔍 Defined churn as “no orders in last 60 days”
   
-  🤖 Trained and compared models:
+       Trained and compared models:
 
-    Logistic Regression (AUC = 0.73)
+      Logistic Regression (AUC = 0.73)
     
-    Random Forest (Best AUC = 0.77, 96% recall)
+      Random Forest (Best AUC = 0.77, 96% recall)
     
-    XGBoost (AUC = 0.77, 92% recall)
+      XGBoost (AUC = 0.77, 92% recall)
 
 - Results:
 
-  Identified top drivers of churn:
+    Identified top drivers of churn:
 
-    Fewer orders
+      Fewer orders
     
-    Low feedback ratings
+      Low feedback ratings
     
-    High delivery delays
+      High delivery delays
 
-  Exported churn predictions and probabilities for Power BI reporting
+    Exported churn predictions and probabilities for Power BI reporting
   
-  Delivered actionable insights for re-engagement campaigns and service improvements
+    Delivered actionable insights for re-engagement campaigns and service improvements
 
 - Tools Used:
   · Python 
@@ -49,9 +48,9 @@ In this project, I analyzed Blinkit's customer and marketing data to identify be
 
 - Next Steps:
 
-  Build a Power BI dashboard for real-time churn tracking
+      Build a Power BI dashboard for real-time churn tracking
   
-  Segment customers by risk level and lifetime value
+      Segment customers by risk level and lifetime value
   
-  Deploy periodic prediction pipeline for marketing teams
+      Deploy periodic prediction pipeline for marketing teams
 

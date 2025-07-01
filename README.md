@@ -10,9 +10,9 @@ In this project, I analyzed Blinkit's customer and marketing data to identify be
   📊 Conducted exploratory data analysis using Seaborn/Matplotlib (histograms, heatmaps, box plots)
   
   🧠 Engineered features like:
-      Total orders, Avg. order value, Delivery delay
-
+  
       Feedback ratings, Registration age
+      Total orders, Avg. order value, Delivery delay
 
   🔍 Defined churn as “no orders in last 60 days”
   

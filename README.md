@@ -3,7 +3,7 @@
 Overview:
 In this project, I analyzed Blinkit's customer and marketing data to identify behavioral signals of churn and build a predictive model to support retention strategies.
 
-Key Steps:
+- Key Steps:
 
   📥 Loaded and cleaned multi-source datasets: orders, feedback, customers, marketing performance
   
@@ -25,7 +25,7 @@ Key Steps:
     
     XGBoost (AUC = 0.77, 92% recall)
 
-Results:
+- Results:
 
   Identified top drivers of churn:
 
@@ -39,15 +39,15 @@ Results:
   
   Delivered actionable insights for re-engagement campaigns and service improvements
 
-Tools Used:
-· Python 
-· Pandas 
-· Seaborn 
-· Scikit-learn 
-· XGBoost 
-· Power BI
+- Tools Used:
+  · Python 
+  · Pandas 
+  · Seaborn 
+  · Scikit-learn 
+  · XGBoost 
+  · Power BI
 
-Next Steps:
+- Next Steps:
 
   Build a Power BI dashboard for real-time churn tracking
   
